@@ -1,7 +1,7 @@
 # Repositorio de Programacion Orientada a Objetos
 
 ### Autor:
-[MiguelAnggel](https://github.com/MiguelAnggel)
+[migueeldev](https://github.com/migueeldev)
 
 ### Temario desarrollado:
 
